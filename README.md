@@ -1,2 +1,2 @@
 # Netflix-Content-Analysis
-A Tableau dashboard analyzing Netflix titles by year, genre, and country.
+A Tableau dashboard analyzing Netflix titles (shows) by year, genre, and country.
