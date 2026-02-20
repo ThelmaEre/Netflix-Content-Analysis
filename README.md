@@ -38,3 +38,5 @@ The dataset was downloaded from Kaggle. It includes Netflix titles (i.e movies a
 Created by **Thelma Eremionkhale (2026)**
 
 *Link to dashboard*: https://public.tableau.com/app/profile/thelma.eremionkhale/viz/NETFLIXContentAnalysisDashboardbyThelmaEremionkhale/NetflixContentAnalysisDashboard?publish=yes 
+
+*View individual worksheets here (Tableau Story)*: https://public.tableau.com/app/profile/thelma.eremionkhale/viz/NETFLIXContentAnalysisDashboardbyThelmaEremionkhale/Story1?publish=yes&showOnboarding=true
